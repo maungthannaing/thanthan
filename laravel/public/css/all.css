@@ -1,0 +1,132 @@
+/* .navbar-light .navbar-brand {
+    color: gold !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: gold !important;
+} */
+
+.picture {
+    width: 100%;
+    height: 400px;
+}
+
+h5 {
+    font-family: Elephant !important;
+}
+
+
+/* hr {
+    border-top: 3px solid rgba(0, 0, 0, 0.1) !important;
+} */
+
+h2 {
+    color: black;
+}
+
+h3 {
+    font-family: Elephant !important;
+    color: black;
+}
+
+.logo {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+}
+
+h1 {
+    color: rgb(10, 10, 10);
+    font-family: Times New Roman !important;
+}
+
+i {
+    font-family: Times New Roman;
+    font-weight: bold;
+}
+
+
+/* .pic {
+    background-image: url('../image/1616398555_lip2.jpg');
+    background-size: cover;
+} */
+
+.blog-card {
+    border: none !important;
+    border-bottom: 3px solid #080808 !important;
+    overflow: hidden;
+    width: 100%;
+}
+
+.love {
+    border-bottom: 4px solid white;
+}
+
+#scroll {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    text-indent: -9999px;
+    border-radius: 60px;
+}
+
+#scroll span {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    margin-left: -8px;
+    margin-right: -12px;
+    height: 0;
+    width: 0;
+    border: 8px solid transparent;
+    border-bottom-color: #ffffff;
+}
+
+
+/*  
+.carousel-inner {
+    height: 550px;
+    overflow: hidden;
+}
+
+.carousel-inner {
+    position: relative;
+    width: 100%;
+}
+
+.carousel-item {
+    position: relative;
+    float: left;
+    width: 100%;
+    margin-right: -100%;
+    backface-visibility: hidden;
+    transition: transform 0.6s ease-in-out, -webkit-transform 0.6s ease-in-out;
+}
+
+.carousel-inner img {
+    object-fit: cover;
+}
+
+.carousel-image {
+    width: 100%;
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+
+.text-box {
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    right: 15%;
+    color: #fff;
+    text-align: left;
+    transform: translatey(-50%);
+}
+*/
